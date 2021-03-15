@@ -6,3 +6,6 @@ ASL Project Create Executable <br>
 
 Additional Files: <br>
 https://github.com/nickpavini/ASL-NET
+
+Previous version:
+https://github.com/dleinwan/ASL_Project_GUI
